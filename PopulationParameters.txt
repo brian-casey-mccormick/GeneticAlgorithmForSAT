@@ -1,0 +1,6 @@
+numMembers = 30
+maxGenerations = 10000
+maxFlipsPerGeneration = 100
+probSexualReproduction = 0.50
+probMutation = 0.001
+probGreedyFlip = 0.50
